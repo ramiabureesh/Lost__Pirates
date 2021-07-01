@@ -631,9 +631,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\boost_destroy.cs" />
     <Compile Include="Assets\cannon_hit.cs" />
     <Compile Include="Assets\cannon_hit2.cs" />
     <Compile Include="Assets\GameOVer.cs" />
+    <Compile Include="Assets\health_score.cs" />
     <Compile Include="Assets\hit_destroy.cs" />
     <Compile Include="Assets\hit_ship.cs" />
     <Compile Include="Assets\hit_target.cs" />

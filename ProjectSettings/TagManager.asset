@@ -9,6 +9,11 @@ TagManager:
   - border
   - ship
   - fire
+  - speedBoost
+  - slowBoost
+  - spawnEnemeyBoost
+  - portalBoost
+  - healthBoost
   layers:
   - Default
   - TransparentFX
